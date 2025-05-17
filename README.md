@@ -1,6 +1,6 @@
-# 📊 SQL Homework Project
+# 📊 SQL Project
 
-Welcome to my **SQL Homework Project**! This repository contains 20 different SQL queries designed to practice and showcase various SQL skills like joins, aggregations, window functions, CTEs, and more — all based on a sample e-commerce database.  
+Welcome to my **SQL Project**! This repository contains 20 different SQL queries designed to practice and showcase various SQL skills like joins, aggregations, window functions, CTEs, and more — all based on a sample e-commerce database.  
 
 ---
 
